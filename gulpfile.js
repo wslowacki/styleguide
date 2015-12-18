@@ -9,8 +9,8 @@ var paths = {
     src: [
         //enter any vednro 
         'styleguide/styleguide_helper_elements.css',
-        '/src/*.scss',
-        '/src/**/*.scss'
+        'src/*.scss',
+        'src/**/*.scss'
     ],
     mainStyleFile: 'styleguide/styleguide-app.css',
     dest: 'styleguide'
