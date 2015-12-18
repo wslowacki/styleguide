@@ -1,0 +1,11 @@
+{
+  "name": "zuhlke-engineering-styleguide",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "devDependencies": {
+    "gulp": "3.9.0",
+    "gulp-sass": "2.1.0",
+    "sc5-styleguide": "0.3.37"
+  }
+}
