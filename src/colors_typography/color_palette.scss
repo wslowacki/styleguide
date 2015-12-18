@@ -2,4 +2,58 @@
 // 
 // Available colors
 // 
+// $white - pure white
+// $black - pure black
+// $black-90 - 90% value of black
+// $black-80 - 80% value of black
+// $black-70 - 70% value of black
+// $black-60 - 60% value of black
+// $black-50 - 50% value of black
+// $black-40 - 40% value of black
+// $black-30 - 30% value of black
+// $black-20 - 20% value of black
+// $black-10 - 10% value of black
+// $purple-dark - dark purple
+// $purple - purple
+// $blue - blue
+// $blue-dark - dark blue
+// $blue-light - light blue
+// $red - red
+// $yellow - yellow
+// $green - green
+// 
+// 
+// markup:
+// <div style="background: {$modifiers};" class="styleguide-color">{$modifiers}</div>
+// 
 // Styleguide 1.1
+
+$white: #ffffff;
+
+//A range of black color variables, going from 100% saturation to 10%
+$black: #000000;
+$black-90: #191919;
+$black-80: #333333;
+$black-70: #4c4c4c;
+$black-60: #666666;
+$black-50: #7f7f7f;
+$black-40: #999999;
+$black-30: #b2b2b2;
+$black-20: #cccccc;
+$black-10: #e5e5e5;
+
+//base color theme
+$purple-dark: #5E2DE8;
+$purple: #9F31FF;
+
+$blue: #2D60E8;
+$blue-dark: #3E40FF;
+$blue-light: #31A0FF;
+
+$turqoise-dark: #68E8D6;
+$turqoise: #7FEEFF;
+
+
+$red: #FF160F;
+$yellow: #FF8A02;
+$green: #06E826;
